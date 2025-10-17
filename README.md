@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 I’m currently working on something I love — building projects like DEXs, CEXs, mobile apps, or websites.<br>👯 I’m looking to collaborate on any project that shares the same vision and path as mine.<br>🤝 I’m looking for help with creating or building anything related to blockchain — such as DEXs, CEXs, and beyond.<br>🌱 I’m currently learning everything that exists in this world.<br>💬 Ask me about anything in the world.<br>⚡ Fun fact: I’m always happy to meet new people who share the same vision and mission.
 
 
